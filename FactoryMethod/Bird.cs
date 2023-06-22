@@ -8,6 +8,6 @@ namespace FactoryMethod
 {
     internal class Bird : IAnimal
     {
-        public string Render() => "Bird!";
+        public string Render() => "Bird !";
     }
 }
